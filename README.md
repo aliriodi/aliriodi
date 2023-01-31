@@ -5,17 +5,19 @@
 - 🌱 I’m currently learning Bot full duplex communication with Javascript app + celular ...
 - 👯 I’m looking to collaborate on projects with FullStack tecjnologies Javascript and typescript...
 - 💬 Ask me about 
--        Node.js
--        React
--        Redux
--        Redux-Toolkit
--        Next.Js
--        MongoDB
--        posgresSQL
--        MySql
--        auth0
--        nodemail
--        and more ...
+
+        Node.js
+        React
+        Redux
+        Redux-Toolkit
+        Next.Js
+        MongoDB
+        posgresSQL
+        MySql
+        auth0
+        nodemail
+        and more ...
+        
 - 📫 How to reach me: 
                       
                        https://www.linkedin.com/in/alirio-b-diaz-5276087a/ 
