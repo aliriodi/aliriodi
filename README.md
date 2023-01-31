@@ -1,5 +1,5 @@
 
-### <em> Hello, I'm Alirio  </em>
+### <em> Hello, I'm Alirio Diaz </em>
 
 - 🔭 I’m currently working on Farm printing 3D in repository 3DSeller ...
 - 🌱 I’m currently learning Bot full duplex communication with Javascript app + celular ...
