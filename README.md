@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects with FullStack tecjnologies Javascript and typescript...
 - 💬 Ask me about 
 
-        Node.js
+   (https://www.flaticon.es/icono-gratis/silueta-del-logo-de-github-en-un-cuadrado_38401)     Node.js
         React
         Redux
         Redux-Toolkit
