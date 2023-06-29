@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects with FullStack tecjnologies Javascript and typescript...
 - 💬 Ask me about 
 
- ![El coo]<img src="https://cdn-icons-png.flaticon.com/128/6424/6424084.png">     Node.js
+ ![El coo](<img src="https://cdn-icons-png.flaticon.com/128/6424/6424084.png"> )    Node.js
         React
         Redux
         Redux-Toolkit
