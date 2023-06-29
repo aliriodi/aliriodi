@@ -7,6 +7,7 @@
 - 💬 Ask me about 
 
  <img src="https://cdn-icons-png.flaticon.com/128/6424/6424084.png" width="30px" height="30px">    Node.js
+ 
         React
         Redux
         Redux-Toolkit
