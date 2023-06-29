@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects with FullStack tecjnologies Javascript and typescript...
 - 💬 Ask me about 
 
- <img src="https://www.diplomadosonline.com/wp-content/uploads/2022/07/nodejs.png" width="40px" height="40px" style="border-radius: 20%">    Node.js
+ <img src="https://www.diplomadosonline.com/wp-content/uploads/2022/07/nodejs.png" width="40px" height="40px">    Node.js
          React
         Redux
         Redux-Toolkit
