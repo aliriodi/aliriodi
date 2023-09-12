@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects with FullStack tecjnologies Javascript and typescript...
 - 💬 Ask me about 
 
- <p><img src="{(https://res.cloudinary.com/dfddh08q8/image/upload/v1694523855/images/300px-Node.js_logo.svg_hmbjue.png)" style={{border-radius: 20px}} width="40px" height="40px" />    Node.js </p>
+ <p><img src="[Node.js](https://res.cloudinary.com/dfddh08q8/image/upload/v1694523855/images/300px-Node.js_logo.svg_hmbjue.png)" style={{border-radius: 20px}} width="40px" height="40px" />    Node.js </p>
         React
         Redux
         Redux-Toolkit
