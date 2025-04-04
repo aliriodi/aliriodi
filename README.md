@@ -7,9 +7,9 @@
 - 💬 Ask me about 
 
  <p align="center">
-   <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796038/forex/forex_academy_professional_javascript.jpg" alt="Logo de Node.js" width="100"> 
-  <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796217/forex/forex_academy_professional_react.jpg" alt="Logo de React.js" width="100"> 
+  <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796038/forex/forex_academy_professional_javascript.jpg" alt="Logo de Node.js" width="100"> 
   <img src="https://res.cloudinary.com/dfddh08q8/image/upload/v1694523855/images/300px-Node.js_logo.svg_hmbjue.png" alt="Logo de Node.js" width="100"> 
+  <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796217/forex/forex_academy_professional_react.jpg" alt="Logo de React.js" width="100"> 
   <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743795786/forex/forex_academy_professional_redux.jpg" alt="Logo de Redux" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="100">
 </p>
