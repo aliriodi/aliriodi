@@ -22,8 +22,6 @@
                       
                        https://www.linkedin.com/in/alirio-b-diaz-5276087a/ 
 
-                       https://www.youtube.com/channel/UCi0682aL2y8l2pJ3i5_gFXA
-                       
                        http://www.google.com   ARQUICOM AJ 
                        
                        https://www.instagram.com/arquicom_aj/?next=%2F
