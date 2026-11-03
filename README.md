@@ -8,7 +8,7 @@
 
  <p align="center">
   <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796038/forex/forex_academy_professional_javascript.jpg" alt="Logo de Node.js" width="100"> 
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*M0mowFRKP7BQgeN2zMDC8Q.jpeg" alt="Logo de Node.js" width="130"> 
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*M0mowFRKP7BQgeN2zMDC8Q.jpeg" alt="Logo de Node.js" width="140"> 
   <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743796217/forex/forex_academy_professional_react.jpg" alt="Logo de React.js" width="100"> 
   <img src="https://res.cloudinary.com/dvy9qircy/image/upload/v1743795786/forex/forex_academy_professional_redux.jpg" alt="Logo de Redux" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="100">
